@@ -14,4 +14,4 @@ Para realizar esta practica es necesario la manipulación del ID del NFT a nivel
 
 El ID del token ya tiene toda la información si se presenta en el hotel para ser consumido, O incluso se podría revender.
 
-- Este contrato debería tener incluido un sistema de firma de mensaje para la función de minteo, y de esta manera solo el owner podría mintear. Pero no lo incluyo para centrar unicamente la atención en el tema que estamos tratando. 
+> Este contrato debería tener incluido un sistema de firma de mensaje para la función de minteo, y de esta manera solo el owner podría mintear. Pero no lo incluyo para centrar unicamente la atención en el tema que estamos tratando. 
